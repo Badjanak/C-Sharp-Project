@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distance", "Distance\Distance.csproj", "{22F04DAB-1983-4AC1-ACEB-BB5EA8B92ABD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeTiles", "ChangeTiles\ChangeTiles.csproj", "{51DCA5F3-6BED-4716-B33B-A7B977724492}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flowers", "Flowers\Flowers.csproj", "{D6B26843-E0BD-4EC6-8D5B-5420C7F4085F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LettersCombinations", "LettersCombinations\LettersCombinations.csproj", "{6DC9D29F-5B33-4B29-B1FD-562F3C9A6401}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22F04DAB-1983-4AC1-ACEB-BB5EA8B92ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22F04DAB-1983-4AC1-ACEB-BB5EA8B92ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22F04DAB-1983-4AC1-ACEB-BB5EA8B92ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22F04DAB-1983-4AC1-ACEB-BB5EA8B92ABD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51DCA5F3-6BED-4716-B33B-A7B977724492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51DCA5F3-6BED-4716-B33B-A7B977724492}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51DCA5F3-6BED-4716-B33B-A7B977724492}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51DCA5F3-6BED-4716-B33B-A7B977724492}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6B26843-E0BD-4EC6-8D5B-5420C7F4085F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B26843-E0BD-4EC6-8D5B-5420C7F4085F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B26843-E0BD-4EC6-8D5B-5420C7F4085F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B26843-E0BD-4EC6-8D5B-5420C7F4085F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DC9D29F-5B33-4B29-B1FD-562F3C9A6401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DC9D29F-5B33-4B29-B1FD-562F3C9A6401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DC9D29F-5B33-4B29-B1FD-562F3C9A6401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DC9D29F-5B33-4B29-B1FD-562F3C9A6401}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
